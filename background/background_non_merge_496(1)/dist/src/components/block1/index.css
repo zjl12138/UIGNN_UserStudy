@@ -1,0 +1,285 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.primary {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  width: 702px;
+}
+.layer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 702px;
+  height: 180px;
+  overflow: hidden;
+}
+.dot {
+  position: absolute;
+  right: 99px;
+  bottom: 17px;
+  width: 1px;
+  height: 1px;
+}
+.dot-1 {
+  position: absolute;
+  top: 143px;
+  right: 100px;
+  width: 1px;
+  height: 1px;
+}
+.dot-2 {
+  position: absolute;
+  top: 160px;
+  right: 99px;
+  width: 1px;
+  height: 1px;
+}
+.dot-3 {
+  position: absolute;
+  top: 101px;
+  right: 74px;
+  width: 1px;
+  height: 1px;
+}
+.dot-4 {
+  position: absolute;
+  top: 101px;
+  right: 71px;
+  width: 1px;
+  height: 1px;
+}
+.dot-5 {
+  position: absolute;
+  top: 143px;
+  right: 3px;
+  width: 1px;
+  height: 1px;
+}
+.dot-6 {
+  position: absolute;
+  right: 9px;
+  bottom: 18px;
+  width: 1px;
+  height: 1px;
+}
+.dot-7 {
+  position: absolute;
+  top: 115px;
+  right: 92px;
+  width: 1px;
+  height: 1px;
+}
+.dot-8 {
+  position: absolute;
+  top: 130px;
+  right: 123px;
+  width: 1px;
+  height: 1px;
+}
+.dot-9 {
+  position: absolute;
+  top: 128px;
+  right: 124px;
+  width: 1px;
+  height: 1px;
+}
+.dot-10 {
+  position: absolute;
+  top: 133px;
+  right: 124px;
+  width: 1px;
+  height: 1px;
+}
+.dot-11 {
+  position: absolute;
+  top: 140px;
+  right: 126px;
+  width: 1px;
+  height: 1px;
+}
+.dot-12 {
+  position: absolute;
+  right: 6px;
+  bottom: 17px;
+  width: 1px;
+  height: 1px;
+}
+.dot-13 {
+  position: absolute;
+  right: 7px;
+  bottom: 13px;
+  width: 1px;
+  height: 1px;
+}
+.dot-14 {
+  position: absolute;
+  top: 154px;
+  right: 124px;
+  width: 1px;
+  height: 1px;
+}
+.dot-15 {
+  position: absolute;
+  top: 157px;
+  right: 124px;
+  width: 1px;
+  height: 1px;
+}
+.picture {
+  position: absolute;
+  right: 0px;
+  bottom: 15px;
+  width: 92px;
+  height: 80px;
+}
+.view {
+  display: flex;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.shop-logo {
+  position: relative;
+  width: 85px;
+  height: 40px;
+}
+.dot-16 {
+  position: absolute;
+  top: 23px;
+  right: 5px;
+  width: 1px;
+  height: 1px;
+}
+.badge {
+  position: absolute;
+  right: 85px;
+  bottom: 0px;
+  width: 43px;
+  height: 27px;
+}
+.item {
+  position: relative;
+  margin-right: 30px;
+  width: 180px;
+  height: 180px;
+}
+.view-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 47px;
+  margin-right: 40px;
+}
+.title {
+  position: relative;
+  line-height: 40px;
+  white-space: nowrap;
+  color: #333333;
+  font-size: 36px;
+}
+.video {
+  position: relative;
+  margin-top: 14px;
+  max-width: 324px;
+  height: 32px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 32px;
+  white-space: pre;
+  color: #666666;
+  font-size: 28px;
+}
+.view-2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 141px;
+  margin-right: -1px;
+  width: 3px;
+}
+.dot-17 {
+  position: absolute;
+  top: 5px;
+  align-self: center;
+  width: 1px;
+  height: 1px;
+}
+.dot-18 {
+  position: absolute;
+  top: 7px;
+  align-self: center;
+  width: 1px;
+  height: 1px;
+}
+.dot-19 {
+  position: absolute;
+  top: 4px;
+  align-self: center;
+  width: 1px;
+  height: 1px;
+}
+.dot-20 {
+  position: relative;
+  width: 1px;
+  height: 4px;
+}
+.dot-21 {
+  position: relative;
+  margin-top: -2px;
+  width: 3px;
+  height: 6px;
+}
+.dot-22 {
+  position: relative;
+  margin-top: -1px;
+  width: 1px;
+  height: 2px;
+}
+.dot-23 {
+  position: relative;
+  width: 1px;
+  height: 1px;
+}
+.dot-24 {
+  position: relative;
+  margin-top: 1px;
+  width: 1px;
+  height: 1px;
+}
+.dot-25 {
+  position: relative;
+  margin-top: 149px;
+  width: 1px;
+  height: 1px;
+}
+.logo {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 118px;
+  height: 82px;
+}
+.shop-logo-1 {
+  position: absolute;
+  top: 75px;
+  right: -18px;
+  width: 146px;
+  height: 67px;
+}
+.logo-1 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 120px;
+  height: 88px;
+}

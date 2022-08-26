@@ -1,0 +1,385 @@
+.mod {
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.block {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 6px;
+  background-size: contain;
+  background-image: url(../../images/img_33.png);
+  width: 746px;
+  height: 219px;
+}
+.header {
+  display: flex;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+}
+.empty {
+  margin-right: 208px;
+  width: 0px;
+  height: 1px;
+}
+.wrapper-item-0 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 208px;
+  width: 31px;
+}
+.horizontal-line {
+  margin-left: -208px;
+  background-color: #e6e6e6;
+  width: 208px;
+  height: 1px;
+}
+.wrapper-item-1 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 208px;
+  width: 31px;
+}
+.horizontal-line-1 {
+  margin-left: -208px;
+  background-color: #e6e6e6;
+  width: 208px;
+  height: 1px;
+}
+.wrapper-item-2 {
+  display: flex;
+  align-items: flex-start;
+  width: 0px;
+}
+.horizontal-line-2 {
+  margin-left: -208px;
+  background-color: #e6e6e6;
+  width: 208px;
+  height: 1px;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  align-self: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.icon {
+  position: absolute;
+  top: 14px;
+  left: 57px;
+  width: 42px;
+  height: 73px;
+}
+.wrapper {
+  display: flex;
+  position: absolute;
+  top: 10px;
+  right: 2px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.logo {
+  position: relative;
+  width: 100px;
+  height: 40px;
+}
+.figure {
+  position: absolute;
+  top: -1px;
+  right: 28px;
+  width: 13px;
+  height: 9px;
+}
+.wrapper-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-right: 160px;
+}
+.large-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 73px;
+  height: 100px;
+  overflow: hidden;
+}
+.group {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 73px;
+  height: 100px;
+}
+.large-icon-1 {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 73px;
+  height: 100px;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 45px;
+  width: 30px;
+}
+.dot {
+  width: 6px;
+  height: 10px;
+}
+.dot-1 {
+  width: 6px;
+  height: 10px;
+}
+.icon-1 {
+  position: relative;
+  margin-top: 1px;
+  width: 19px;
+  height: 10px;
+}
+.wrapper-2 {
+  display: flex;
+  position: absolute;
+  top: 49px;
+  left: 70px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.figure-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 39px;
+  overflow: hidden;
+}
+.thumbnail {
+  position: relative;
+  width: 31px;
+  height: 39px;
+}
+.icon-2 {
+  position: absolute;
+  top: 12px;
+  left: 60px;
+  width: 39px;
+  height: 44px;
+}
+.icon-3 {
+  position: relative;
+  margin-top: 16px;
+  margin-right: -2px;
+  width: 24px;
+  height: 24px;
+}
+.wrapper-3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 3px;
+  margin-right: 147px;
+  width: 69px;
+}
+.group-1 {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  align-items: center;
+  align-self: center;
+  width: 65px;
+  height: 44px;
+}
+.large-icon-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 65px;
+  height: 44px;
+}
+.dot-2 {
+  position: absolute;
+  top: 13px;
+  left: 15px;
+  width: 6px;
+  height: 10px;
+}
+.dot-3 {
+  position: absolute;
+  top: 13px;
+  right: 16px;
+  width: 6px;
+  height: 10px;
+}
+.icon-4 {
+  position: absolute;
+  top: 26px;
+  right: 22px;
+  width: 20px;
+  height: 10px;
+}
+.group-2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  margin-left: 4px;
+}
+.icon-5 {
+  margin-top: 5px;
+  margin-right: 5px;
+  width: 11px;
+  height: 14px;
+}
+.icon-6 {
+  margin-top: -4px;
+  margin-right: 7px;
+  width: 9px;
+  height: 15px;
+}
+.icon-7 {
+  margin-top: -5px;
+  margin-right: 5px;
+  width: 8px;
+  height: 14px;
+}
+.dot-4 {
+  margin-top: 5px;
+  width: 11px;
+  height: 12px;
+}
+.large-icon-3 {
+  position: relative;
+  margin-top: -1px;
+  width: 69px;
+  height: 83px;
+}
+.wrapper-4 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 32px;
+  width: 105px;
+  height: 70px;
+}
+.logo-1 {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 105px;
+  height: 70px;
+}
+.large-icon-4 {
+  position: relative;
+  margin-top: 12px;
+  width: 76px;
+  height: 8px;
+}
+.group-3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 7px;
+  width: 33px;
+}
+.dot-5 {
+  width: 6px;
+  height: 9px;
+}
+.dot-6 {
+  width: 6px;
+  height: 9px;
+}
+.icon-8 {
+  position: relative;
+  margin-top: 5px;
+  width: 19px;
+  height: 10px;
+}
+.icon-9 {
+  position: absolute;
+  top: 18px;
+  right: 8px;
+  width: 18px;
+  height: 21px;
+}
+.wrapper-5 {
+  display: flex;
+  position: absolute;
+  top: 7px;
+  right: 49px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.badge {
+  position: relative;
+  width: 47px;
+  height: 31px;
+}
+.dot-7 {
+  position: absolute;
+  top: 16px;
+  right: 14px;
+  width: 7px;
+  height: 9px;
+}
+.dot-8 {
+  position: absolute;
+  bottom: 0px;
+  left: 14px;
+  width: 9px;
+  height: 8px;
+}
+.dot-9 {
+  position: absolute;
+  top: 29px;
+  right: 35px;
+  width: 8px;
+  height: 9px;
+}
+.dot-10 {
+  position: relative;
+  margin-top: -2px;
+  margin-left: 609px;
+  width: 1px;
+  height: 1px;
+}
+.footer {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  align-self: center;
+  margin-top: 25px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+.action-bg {
+  margin-top: 1px;
+  margin-right: 84px;
+  width: 169px;
+  height: 58px;
+  line-height: normal;
+  white-space: normal;
+}
+.title {
+  margin-right: 99px;
+  color: #333333;
+  font-size: 28px;
+}
+.caption {
+  color: #333333;
+  font-size: 28px;
+}

@@ -1,0 +1,150 @@
+.mod {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 750px;
+  height: 183px;
+}
+.primary {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 59px;
+  margin-right: 76px;
+}
+.icon {
+  position: relative;
+  width: 32px;
+  height: 46px;
+}
+.tag {
+  position: relative;
+  margin-top: 19px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}
+.sub-item-0 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 61px;
+  margin-right: 85px;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 31px;
+  width: 28px;
+  height: 45px;
+}
+.icon-1 {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 28px;
+  height: 45px;
+}
+.horizontal-line {
+  position: relative;
+  margin-top: 10px;
+  border-radius: 1px;
+  background-color: #3296fa;
+  width: 12px;
+  height: 3px;
+  overflow: hidden;
+}
+.horizontal-line-1 {
+  position: relative;
+  margin-top: 5px;
+  border-radius: 1px;
+  background-color: #3296fa;
+  width: 12px;
+  height: 3px;
+  overflow: hidden;
+}
+.horizontal-line-2 {
+  position: relative;
+  margin-top: 5px;
+  border-radius: 1px;
+  background-color: #3296fa;
+  width: 12px;
+  height: 3px;
+  overflow: hidden;
+}
+.icon-2 {
+  position: absolute;
+  top: 16px;
+  right: 27px;
+  width: 13px;
+  height: 30px;
+}
+.horizontal-line-3 {
+  position: absolute;
+  top: 42px;
+  right: 23px;
+  background-color: #2f93fa;
+  width: 46px;
+  height: 3px;
+}
+.label {
+  position: relative;
+  margin-top: 18px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}
+.side {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 61px;
+  margin-right: 86px;
+}
+.icon-3 {
+  position: relative;
+  margin-left: 23px;
+  width: 44px;
+  height: 42px;
+}
+.word {
+  position: relative;
+  margin-top: 21px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}
+.sub-item-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 64px;
+}
+.icon-4 {
+  position: relative;
+  margin-left: 26px;
+  width: 39px;
+  height: 40px;
+}
+.icon-5 {
+  position: absolute;
+  top: 1px;
+  right: 22px;
+  width: 21px;
+  height: 34px;
+}
+.tag-1 {
+  position: relative;
+  margin-top: 20px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}

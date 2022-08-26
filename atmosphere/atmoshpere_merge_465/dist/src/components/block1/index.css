@@ -1,0 +1,257 @@
+.mod {
+  width: 702px;
+  height: 220px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+}
+.block {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  border-width: 1px;
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.06);
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #ddeae8;
+  background-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(248, 255, 254, 1) 100%
+  );
+  width: 702px;
+  height: 220px;
+  overflow: hidden;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  align-self: center;
+  margin-top: 29px;
+}
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 3px;
+}
+.group {
+  display: flex;
+  position: relative;
+  align-items: center;
+  height: 40px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+.title {
+  color: #333333;
+  font-family: STSongti-SC-Regular, Songti SC;
+  font-size: 36px;
+}
+.caption {
+  color: #333333;
+  font-family: Times-Roman, Times;
+  font-size: 36px;
+}
+.group-1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-top: 14px;
+}
+.title-wrapper {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 1px;
+  width: 130px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+.title-1 {
+  max-width: 130px;
+  height: 32px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #aaaaaa;
+  font-size: 28px;
+}
+.view {
+  display: flex;
+  align-items: center;
+  height: 32px;
+}
+.vertical-line {
+  margin-right: 12px;
+  margin-left: -1px;
+  background-color: #dddddd;
+  width: 1px;
+  height: 24px;
+}
+.caption-1 {
+  line-height: 28px;
+  white-space: nowrap;
+  color: #aaaaaa;
+  font-size: 28px;
+}
+.wrapper-1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 3px;
+  margin-right: 79px;
+  width: 198px;
+}
+.group-2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  height: 40px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+.location {
+  color: #333333;
+  font-family: STSongti-SC-Regular, Songti SC;
+  font-size: 36px;
+}
+.title-2 {
+  color: #333333;
+  font-family: Times-Roman, Times;
+  font-size: 36px;
+}
+.group-3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  margin-top: 14px;
+}
+.empty {
+  margin-right: 1px;
+  width: 0px;
+  height: 32px;
+}
+.view-1 {
+  display: flex;
+  align-items: center;
+  height: 32px;
+}
+.vertical-line-1 {
+  margin-right: 12px;
+  margin-left: -1px;
+  background-color: #dddddd;
+  width: 1px;
+  height: 24px;
+}
+.caption-2 {
+  line-height: 28px;
+  white-space: nowrap;
+  color: #aaaaaa;
+  font-size: 28px;
+}
+.picture {
+  width: 119px;
+  height: 100px;
+}
+.footer {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-top: 17px;
+  margin-left: 33px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+.section-wrapper-item-0 {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-right: 30px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgba(0, 202, 171, 0.3);
+  background-color: #e8fdfa;
+  padding-right: 11px;
+  padding-left: 35px;
+  height: 38px;
+  overflow: hidden;
+}
+.section {
+  color: #00b4a4;
+  font-size: 24px;
+}
+.section-wrapper-item-1 {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgba(245, 160, 0, 0.3);
+  background-color: #fff5e5;
+  padding-right: 11px;
+  padding-left: 33px;
+  height: 38px;
+  overflow: hidden;
+}
+.benifit {
+  margin-top: -3px;
+  color: #f5a000;
+  font-size: 24px;
+}
+.wrapper-2 {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  right: 160px;
+  align-items: center;
+  width: 38px;
+  height: 38px;
+  line-height: normal;
+  white-space: normal;
+}
+.icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 38px;
+}
+.tag {
+  position: relative;
+  margin-left: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+}
+.container {
+  display: flex;
+  position: absolute;
+  top: 147px;
+  left: 24px;
+  align-items: center;
+  width: 38px;
+  height: 38px;
+}
+.icon-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 38px;
+}
+.label {
+  position: relative;
+  margin-left: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+}

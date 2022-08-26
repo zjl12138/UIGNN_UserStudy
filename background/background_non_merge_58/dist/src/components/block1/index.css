@@ -1,0 +1,188 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 515px;
+  height: 500px;
+}
+.mod .logo {
+  position: absolute;
+  top: 207px;
+  right: -2px;
+  width: 145px;
+  height: 119px;
+}
+.mod .wrapper {
+  display: flex;
+  position: absolute;
+  top: -1px;
+  right: 26px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mod .entry-pic {
+  position: relative;
+  width: 434px;
+  height: 326px;
+}
+.mod .icon {
+  position: absolute;
+  top: 64px;
+  right: 30px;
+  width: 32px;
+  height: 53px;
+}
+.mod .icon-1 {
+  position: absolute;
+  top: 150px;
+  right: 4px;
+  width: 52px;
+  height: 60px;
+}
+.mod .large-icon {
+  position: absolute;
+  top: 27px;
+  left: 94px;
+  width: 62px;
+  height: 365px;
+}
+.mod .entry-pic-1 {
+  position: absolute;
+  bottom: 8px;
+  left: 92px;
+  width: 253px;
+  height: 159px;
+}
+.mod .icon-2 {
+  position: absolute;
+  top: 354px;
+  right: 127px;
+  width: 36px;
+  height: 27px;
+}
+.mod .main {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  margin-top: 62px;
+  margin-left: -1px;
+  width: 171px;
+  height: 128px;
+}
+.mod .entry-pic-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 171px;
+  height: 128px;
+}
+.mod .logo-1 {
+  position: absolute;
+  bottom: 1px;
+  left: 21px;
+  width: 80px;
+  height: 57px;
+}
+.mod .picture {
+  position: relative;
+  margin-top: 31px;
+  margin-left: 8px;
+  width: 93px;
+  height: 96px;
+}
+.mod .wrapper-1 {
+  display: flex;
+  position: absolute;
+  top: 17px;
+  left: 78px;
+  align-items: flex-start;
+}
+.mod .layer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 350px;
+  height: 349px;
+}
+.mod .background-wrapper {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 350px;
+  height: 349px;
+  white-space: nowrap;
+}
+.mod .background {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 350px;
+  height: 349px;
+  white-space: normal;
+}
+.mod .title {
+  position: relative;
+  margin-top: 93px;
+  max-width: 338px;
+  height: 32px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 32px;
+  color: #0d5fde;
+  font-size: 28px;
+  font-weight: 300;
+}
+.mod .caption {
+  position: relative;
+  margin-top: 7px;
+  max-width: 338px;
+  height: 61px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 61px;
+  color: #5e2929;
+  font-family: HelveticaNeue-Medium, Helvetica Neue;
+  font-size: 56px;
+  font-weight: 500;
+}
+.mod .view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-top: 30px;
+  height: 33px;
+  line-height: 28px;
+}
+.mod .title-1 {
+  margin-top: 1px;
+  margin-right: 13px;
+  line-height: 26px;
+  color: #0476e0;
+  font-size: 26px;
+  font-weight: 300;
+}
+.mod .num {
+  color: #2060d8;
+  font-family: PingFang SC;
+  font-size: 28px;
+}
+.mod .caption-1 {
+  color: #2060d8;
+  font-family: STHeitiSC-Medium, Heiti SC;
+  font-size: 28px;
+  font-weight: 500;
+}
+.mod .num-1 {
+  color: #2060d8;
+  font-family: PingFang SC;
+  font-size: 28px;
+}
+.mod .icon-3 {
+  position: relative;
+  margin-top: 299px;
+  margin-left: 237px;
+  width: 13px;
+  height: 13px;
+}

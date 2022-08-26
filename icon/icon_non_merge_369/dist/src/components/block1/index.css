@@ -1,0 +1,314 @@
+.mod {
+  width: 750px;
+  height: 110px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+}
+.mod .group {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.mod .vertical-line {
+  position: absolute;
+  top: 43px;
+  right: 97px;
+  width: 2px;
+  height: 17px;
+}
+.mod .vertical-line-1 {
+  position: absolute;
+  top: 43px;
+  right: 111px;
+  width: 2px;
+  height: 17px;
+}
+.mod .dot {
+  position: absolute;
+  top: 35px;
+  right: 295px;
+  width: 2px;
+  height: 2px;
+}
+.mod .dot-1 {
+  position: absolute;
+  top: 35px;
+  right: 280px;
+  width: 2px;
+  height: 2px;
+}
+.mod .main {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 1px;
+  width: 750px;
+  height: 109px;
+}
+.mod .vertical-line-2 {
+  position: absolute;
+  top: 34px;
+  left: 106px;
+  width: 2px;
+  height: 18px;
+}
+.mod .dot-2 {
+  position: absolute;
+  top: 42px;
+  left: 102px;
+  width: 10px;
+  height: 2px;
+}
+.mod .horizontal-line {
+  position: absolute;
+  top: 46px;
+  left: 99px;
+  width: 16px;
+  height: 2px;
+}
+.mod .horizontal-line-1 {
+  position: absolute;
+  top: 37px;
+  left: 99px;
+  width: 16px;
+  height: 2px;
+}
+.mod .container {
+  display: flex;
+  position: absolute;
+  top: 18px;
+  left: 85px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mod .badge {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 21px;
+  overflow: hidden;
+}
+.mod .label-wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: space-between;
+  width: 44px;
+  height: 21px;
+}
+.mod .label {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 21px;
+}
+.mod .group-item-0 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mod .dot-3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 2px;
+  height: 2px;
+  overflow: hidden;
+}
+.mod .dot-4 {
+  position: relative;
+  width: 2px;
+  height: 2px;
+}
+.mod .group-item-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.mod .dot-5 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 2px;
+  height: 2px;
+  overflow: hidden;
+}
+.mod .dot-6 {
+  position: relative;
+  width: 2px;
+  height: 2px;
+}
+.mod .icon {
+  position: absolute;
+  top: 34px;
+  left: 89px;
+  width: 35px;
+  height: 25px;
+}
+.mod .icon-1 {
+  position: absolute;
+  top: 38px;
+  right: 263px;
+  width: 24px;
+  height: 23px;
+}
+.mod .horizontal-line-2 {
+  position: relative;
+  margin-top: -1px;
+  background-color: #bfbfbf;
+  width: 750px;
+  height: 1px;
+}
+.mod .container-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 18px;
+  margin-left: 267px;
+}
+.mod .wrapper-item-0 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 3px;
+}
+.mod .media {
+  position: relative;
+  width: 19px;
+  height: 19px;
+}
+.mod .figure {
+  position: relative;
+  margin-top: 3px;
+  width: 19px;
+  height: 19px;
+}
+.mod .wrapper-item-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 137px;
+}
+.mod .thumbnail {
+  position: relative;
+  width: 19px;
+  height: 19px;
+}
+.mod .media-1 {
+  position: relative;
+  margin-top: 3px;
+  width: 19px;
+  height: 19px;
+}
+.mod .wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 3px;
+  margin-right: 145px;
+}
+.mod .figure-1 {
+  position: relative;
+  width: 34px;
+  height: 33px;
+}
+.mod .thumbnail-1 {
+  position: absolute;
+  top: 14px;
+  left: 9px;
+  width: 16px;
+  height: 7px;
+}
+.mod .wrapper-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 12px;
+}
+.mod .empty {
+  position: relative;
+  width: 42px;
+  height: 0px;
+}
+.mod .group-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 2px;
+}
+.mod .horizontal-line-3 {
+  position: relative;
+  margin-top: -2px;
+  width: 42px;
+  height: 2px;
+}
+.mod .view {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 9px;
+  margin-left: 1px;
+}
+.mod .figure-2 {
+  position: relative;
+  width: 41px;
+  height: 18px;
+}
+.mod .horizontal-line-4 {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 41px;
+  height: 2px;
+}
+.mod .icon-2 {
+  position: absolute;
+  top: 0px;
+  right: 8px;
+  width: 25px;
+  height: 25px;
+}
+.mod .container-2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  margin-top: 11px;
+  height: 28px;
+  font-weight: 300;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.mod .tag {
+  margin-right: 142px;
+  color: #666666;
+  font-size: 20px;
+}
+.mod .label-1 {
+  margin-right: 139px;
+  color: #666666;
+  font-size: 20px;
+}
+.mod .word {
+  margin-right: 138px;
+  color: #666666;
+  font-size: 20px;
+}
+.mod .tag-1 {
+  color: #666666;
+  font-size: 20px;
+}

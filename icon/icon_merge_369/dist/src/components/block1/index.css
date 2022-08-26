@@ -1,0 +1,118 @@
+.mod {
+  width: 750px;
+  height: 110px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+}
+.container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.wrapper {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1px;
+  height: 109px;
+}
+.header {
+  position: relative;
+  margin-top: -1px;
+  background-color: #bfbfbf;
+  width: 750px;
+  height: 1px;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  margin-top: 18px;
+}
+.view-item-0 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 138px;
+}
+.icon {
+  position: relative;
+  width: 44px;
+  height: 41px;
+}
+.tag {
+  position: relative;
+  margin-top: 11px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #666666;
+  font-size: 20px;
+  font-weight: 300;
+}
+.view-item-1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 137px;
+}
+.icon-1 {
+  position: relative;
+  width: 41px;
+  height: 41px;
+}
+.label {
+  position: relative;
+  margin-top: 11px;
+  margin-left: 1px;
+  max-width: 41px;
+  height: 28px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #666666;
+  font-size: 20px;
+  font-weight: 300;
+}
+.view-item-2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 137px;
+}
+.icon-2 {
+  position: relative;
+  width: 42px;
+  height: 40px;
+}
+.word {
+  position: relative;
+  margin-top: 9px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #666666;
+  font-size: 20px;
+  font-weight: 300;
+}
+.view-item-3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.icon-3 {
+  position: relative;
+  width: 42px;
+  height: 41px;
+}
+.tag-1 {
+  position: relative;
+  margin-top: 11px;
+  margin-left: 1px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #666666;
+  font-size: 20px;
+  font-weight: 300;
+}

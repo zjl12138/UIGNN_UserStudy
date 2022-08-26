@@ -1,0 +1,151 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: #ffffff;
+  height: 480px;
+  overflow: hidden;
+}
+.layer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 750px;
+  height: 480px;
+  overflow: hidden;
+}
+.entry-pic {
+  position: absolute;
+  top: 0px;
+  right: 186px;
+  width: 166px;
+  height: 128px;
+}
+.primary {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 66px;
+  margin-right: 42px;
+  margin-left: 146px;
+  width: 319px;
+}
+.wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  align-self: center;
+  width: 316px;
+}
+.logo {
+  margin-top: 125px;
+  margin-right: 10px;
+  width: 126px;
+  height: 80px;
+}
+.group {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-right: -148px;
+}
+.background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.layer-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 180px;
+}
+.item {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+}
+.helechen {
+  margin-top: 196px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: HiraginoSansGB-W6, Hiragino Sans GB;
+  font-size: 28px;
+}
+.wrapper-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  margin-top: 38px;
+}
+.buy {
+  margin-top: 76px;
+  margin-right: -75px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 28px;
+}
+.large-icon {
+  margin-right: 155px;
+  width: 65px;
+  height: 60px;
+}
+.empty {
+  margin-top: 2px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.6);
+  width: 1px;
+  height: 102px;
+}
+.side {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 210px;
+}
+.wrapper-2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left: 30px;
+}
+.media {
+  margin-top: 122px;
+  margin-right: 30px;
+  width: 52px;
+  height: 60px;
+}
+.picture {
+  width: 131px;
+  height: 127px;
+}
+.title-wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  margin-top: 16px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+.title {
+  color: #ffffff;
+  font-size: 28px;
+}

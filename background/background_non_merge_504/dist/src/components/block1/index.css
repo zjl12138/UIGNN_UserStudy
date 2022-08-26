@@ -1,0 +1,203 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: center;
+  width: 741px;
+  height: 128px;
+}
+.floor-bg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 741px;
+  height: 128px;
+  overflow: hidden;
+}
+.mask {
+  position: absolute;
+  top: 10px;
+  right: 47px;
+  border-top-left-radius: 1px;
+  border-bottom-left-radius: 1px;
+  background-color: #ffffff;
+  width: 11px;
+  height: 15px;
+  overflow: hidden;
+}
+.dot {
+  position: relative;
+  margin-right: 3px;
+  margin-bottom: 105px;
+  width: 11px;
+  height: 11px;
+}
+.group {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 1px;
+  margin-bottom: 30px;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.dot-1 {
+  margin-right: 2px;
+  width: 12px;
+  height: 11px;
+}
+.dot-2 {
+  width: 12px;
+  height: 11px;
+}
+.media {
+  position: relative;
+  margin-top: 39px;
+  width: 19px;
+  height: 36px;
+}
+.dot-3 {
+  position: relative;
+  margin-right: 2px;
+  margin-bottom: 105px;
+  width: 12px;
+  height: 11px;
+}
+.dot-4 {
+  position: relative;
+  margin-right: 8px;
+  margin-bottom: 105px;
+  width: 12px;
+  height: 11px;
+}
+.virgin {
+  position: relative;
+  margin-right: 16px;
+  margin-bottom: NaN;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 22px;
+}
+.icon {
+  position: relative;
+  margin-right: 122px;
+  margin-bottom: 101px;
+  width: 24px;
+  height: 19px;
+}
+.group-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 23px;
+  margin-bottom: 30px;
+  width: 98px;
+}
+.tag {
+  position: relative;
+  max-width: 98px;
+  height: 29px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 29px;
+  white-space: pre;
+  color: #ffffff;
+  font-size: 24px;
+}
+.title {
+  position: relative;
+  align-self: center;
+  margin-top: 28px;
+  max-width: 98px;
+  height: 38px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #666666;
+  font-family: .PingFang SC;
+  font-size: 32px;
+}
+.label {
+  position: absolute;
+  top: 0px;
+  left: 335px;
+  line-height: 33px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: AvenirNext-Regular, Avenir Next;
+  font-size: 24px;
+}
+.icon-1 {
+  position: relative;
+  margin-right: 102px;
+  margin-bottom: 61px;
+  width: 51px;
+  height: 44px;
+}
+.icon-2 {
+  position: relative;
+  margin-right: 12px;
+  margin-bottom: 96px;
+  width: 17px;
+  height: 28px;
+}
+.percent {
+  position: relative;
+  margin-right: 6px;
+  margin-bottom: NaN;
+  line-height: 23px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: HelveticaNeue-Light, Helvetica Neue;
+  font-size: 23px;
+  font-weight: 300;
+}
+.icon-3 {
+  position: relative;
+  margin-right: 1px;
+  margin-bottom: 100px;
+  width: 46px;
+  height: 19px;
+}
+.dot-5 {
+  position: relative;
+  margin-bottom: 107px;
+  width: 3px;
+  height: 7px;
+}
+.icon-4 {
+  position: absolute;
+  top: -6px;
+  right: 205px;
+  width: 31px;
+  height: 26px;
+}
+.footer {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 1px;
+  height: 0px;
+}
+.horizontal-line {
+  position: relative;
+  margin-top: -1px;
+  background-color: #dddddd;
+  width: 741px;
+  height: 1px;
+}

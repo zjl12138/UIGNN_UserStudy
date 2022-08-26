@@ -1,0 +1,131 @@
+.mod {
+  display: flex;
+  align-items: flex-start;
+  height: 129px;
+}
+.floor-bg-wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: center;
+  width: 741px;
+}
+.floor-bg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 741px;
+  height: 128px;
+  overflow: hidden;
+}
+.primary {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 8px;
+  margin-bottom: 30px;
+}
+.large-icon {
+  position: relative;
+  width: 67px;
+  height: 11px;
+}
+.figure {
+  position: relative;
+  margin-top: 39px;
+  margin-left: 19px;
+  width: 19px;
+  height: 36px;
+}
+.virgin {
+  position: relative;
+  margin-right: 16px;
+  margin-bottom: NaN;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 22px;
+}
+.icon {
+  position: relative;
+  margin-right: 122px;
+  margin-bottom: 101px;
+  width: 24px;
+  height: 19px;
+}
+.side {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 24px;
+  margin-bottom: 30px;
+  width: 98px;
+}
+.tag {
+  position: relative;
+  max-width: 98px;
+  height: 29px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 29px;
+  white-space: pre;
+  color: #ffffff;
+  font-size: 24px;
+}
+.title {
+  position: relative;
+  align-self: center;
+  margin-top: 28px;
+  max-width: 98px;
+  height: 38px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #666666;
+  font-family: .PingFang SC;
+  font-size: 32px;
+}
+.label {
+  position: absolute;
+  top: 0px;
+  left: 335px;
+  line-height: 33px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: AvenirNext-Regular, Avenir Next;
+  font-size: 24px;
+}
+.logo {
+  position: relative;
+  margin-right: 61px;
+  margin-bottom: 62px;
+  width: 91px;
+  height: 66px;
+}
+.icon-1 {
+  position: relative;
+  margin-right: 12px;
+  margin-bottom: 96px;
+  width: 17px;
+  height: 28px;
+}
+.percent {
+  position: relative;
+  margin-right: 7px;
+  margin-bottom: NaN;
+  line-height: 23px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-family: HelveticaNeue-Light, Helvetica Neue;
+  font-size: 23px;
+  font-weight: 300;
+}
+.icon-2 {
+  position: relative;
+  margin-bottom: 100px;
+  width: 49px;
+  height: 19px;
+}

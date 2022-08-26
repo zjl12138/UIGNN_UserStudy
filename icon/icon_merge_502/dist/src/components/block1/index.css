@@ -1,0 +1,137 @@
+.mod {
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left: 6px;
+  background-size: contain;
+  background-image: url(../../images/img_4.png);
+  width: 746px;
+  height: 219px;
+}
+.primary {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 31px;
+}
+.empty {
+  position: relative;
+  width: 208px;
+  height: 0px;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1px;
+}
+.horizontal-line {
+  position: relative;
+  margin-top: -1px;
+  background-color: #e6e6e6;
+  width: 208px;
+  height: 1px;
+}
+.picture {
+  position: relative;
+  margin-top: 20px;
+  width: 102px;
+  height: 100px;
+}
+.action-bg {
+  position: relative;
+  margin-top: 29px;
+  width: 169px;
+  height: 58px;
+}
+.sub {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 31px;
+}
+.empty-1 {
+  position: relative;
+  width: 208px;
+  height: 0px;
+}
+.view-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 1px;
+  width: 208px;
+}
+.horizontal-line-1 {
+  position: relative;
+  margin-top: -1px;
+  background-color: #e6e6e6;
+  width: 208px;
+  height: 1px;
+}
+.image {
+  position: relative;
+  margin-top: 24px;
+  margin-left: 47px;
+  width: 92px;
+  height: 100px;
+}
+.title {
+  position: relative;
+  align-self: center;
+  margin-top: 24px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #333333;
+  font-size: 28px;
+}
+.side {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.empty-2 {
+  position: relative;
+  width: 208px;
+  height: 0px;
+}
+.view-2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1px;
+}
+.horizontal-line-2 {
+  position: relative;
+  margin-top: -1px;
+  background-color: #e6e6e6;
+  width: 208px;
+  height: 1px;
+}
+.figure {
+  position: relative;
+  margin-top: 27px;
+  width: 105px;
+  height: 96px;
+}
+.caption {
+  position: relative;
+  margin-top: 25px;
+  max-width: 196px;
+  height: 32px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #333333;
+  font-size: 28px;
+}

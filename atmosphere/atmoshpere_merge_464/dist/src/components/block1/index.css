@@ -1,0 +1,54 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: #ffffff;
+  height: 656px;
+  overflow: hidden;
+}
+.logo {
+  position: absolute;
+  top: 0px;
+  right: 215px;
+  width: 156px;
+  height: 126px;
+}
+.primary {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 96px;
+  border-width: 1px;
+  border-style: solid;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-color: #eeeeee;
+  background-color: #f8f8f8;
+  width: 600px;
+  height: 559px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.title {
+  position: relative;
+  margin-top: 98px;
+  max-width: 588px;
+  height: 36px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 36px;
+  color: #00b4a4;
+  font-size: 32px;
+}
+.caption {
+  position: relative;
+  margin-top: 76px;
+  max-width: 588px;
+  height: 46px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 46px;
+  color: #333333;
+  font-size: 42px;
+}

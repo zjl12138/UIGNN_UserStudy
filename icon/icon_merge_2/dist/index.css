@@ -1,0 +1,88 @@
+.mod {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 750px;
+  height: 183px;
+  font-family: PingFang SC;
+}
+.mod .primaryItem0 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 58px;
+  margin-right: 76px;
+}
+.mod .icon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.mod .tag {
+  position: relative;
+  margin-top: 18px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}
+.mod .primaryItem1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 58px;
+  margin-right: 85px;
+}
+.mod .icon1 {
+  position: relative;
+  width: 48px;
+  height: 52px;
+}
+.mod .label {
+  position: relative;
+  margin-top: 14px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}
+.mod .primaryItem2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 58px;
+  margin-right: 86px;
+}
+.mod .icon2 {
+  position: relative;
+  margin-left: 21px;
+  width: 48px;
+  height: 48px;
+}
+.mod .word {
+  position: relative;
+  margin-top: 18px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}
+.mod .primaryItem3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 60px;
+}
+.mod .icon3 {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.mod .tag1 {
+  position: relative;
+  margin-top: 16px;
+  line-height: 32px;
+  white-space: nowrap;
+  color: #191f25;
+  font-size: 24px;
+}

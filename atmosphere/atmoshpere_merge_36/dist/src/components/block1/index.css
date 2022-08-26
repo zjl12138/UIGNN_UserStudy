@@ -1,0 +1,65 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 750px;
+  height: 320px;
+}
+.layer {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 750px;
+  height: 320px;
+}
+.main {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 51px;
+}
+.icon {
+  margin-right: 151px;
+  width: 45px;
+  height: 45px;
+}
+.action-bg {
+  margin-top: 16px;
+  margin-right: 89px;
+  width: 321px;
+  height: 74px;
+}
+.view {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.thumbnail {
+  margin-right: 17px;
+  width: 45px;
+  height: 45px;
+}
+.media {
+  width: 45px;
+  height: 45px;
+}
+.nick-name {
+  position: relative;
+  margin-top: 16px;
+  max-width: 738px;
+  height: 45px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 32px;
+}
+.button-bg {
+  position: relative;
+  margin-top: 2px;
+  width: 451px;
+  height: 80px;
+}

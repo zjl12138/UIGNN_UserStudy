@@ -1,0 +1,44 @@
+.mod {
+  background-size: contain;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  background-image: url(../../images/img_2.png);
+  overflow: hidden;
+}
+.item {
+  margin-right: 30px;
+  width: 180px;
+  height: 180px;
+}
+.primary {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 47px;
+  margin-right: 39px;
+}
+.title {
+  position: relative;
+  line-height: 40px;
+  white-space: nowrap;
+  color: #333333;
+  font-size: 36px;
+}
+.video {
+  position: relative;
+  margin-top: 14px;
+  max-width: 324px;
+  height: 32px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 32px;
+  white-space: pre;
+  color: #666666;
+  font-size: 28px;
+}
+.logo {
+  margin-top: 74px;
+  width: 129px;
+  height: 106px;
+}

@@ -1,0 +1,129 @@
+.mod {
+  display: flex;
+  align-items: center;
+  background-color: #f9f9f9;
+  height: 163px;
+  overflow: hidden;
+}
+.container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: -1px;
+  width: 750px;
+}
+.floor-bg {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 750px;
+  height: 102px;
+}
+.header {
+  position: relative;
+  width: 750px;
+  height: 0px;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1px;
+  height: 101px;
+}
+.empty {
+  position: relative;
+  margin-top: -1px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cccccc;
+  width: 750px;
+  height: 1px;
+}
+.group {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  margin-top: 12px;
+}
+.view-item-0 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 138px;
+}
+.icon {
+  position: relative;
+  width: 45px;
+  height: 47px;
+}
+.tag {
+  position: relative;
+  margin-top: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #999999;
+  font-size: 20px;
+}
+.view-item-1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 136px;
+}
+.icon-1 {
+  position: relative;
+  width: 48px;
+  height: 44px;
+}
+.label {
+  position: relative;
+  margin-top: 8px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #00b4a4;
+  font-size: 20px;
+}
+.view-item-2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 143px;
+}
+.icon-2 {
+  position: relative;
+  width: 40px;
+  height: 47px;
+}
+.location {
+  position: relative;
+  margin-top: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #999999;
+  font-size: 20px;
+}
+.view-item-3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.icon-3 {
+  position: relative;
+  width: 41px;
+  height: 47px;
+}
+.word {
+  position: relative;
+  margin-top: 7px;
+  max-width: 41px;
+  height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #999999;
+  font-size: 20px;
+}

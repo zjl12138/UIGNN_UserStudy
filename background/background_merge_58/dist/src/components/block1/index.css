@@ -1,0 +1,111 @@
+.mod {
+  display: flex;
+  position: relative;
+  align-items: center;
+  width: 515px;
+  height: 500px;
+}
+.layer-wrapper {
+  display: flex;
+  position: absolute;
+  top: -1px;
+  left: -2px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 519px;
+  height: 503px;
+}
+.layer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 519px;
+  height: 503px;
+}
+.primary {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  margin-top: 18px;
+}
+.background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 350px;
+  height: 349px;
+}
+.layer-wrapper-1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 350px;
+  height: 349px;
+  white-space: nowrap;
+}
+.layer-1 {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 350px;
+  height: 349px;
+  white-space: normal;
+}
+.title {
+  position: relative;
+  margin-top: 93px;
+  max-width: 338px;
+  height: 32px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 32px;
+  color: #0d5fde;
+  font-size: 28px;
+  font-weight: 300;
+}
+.caption {
+  position: relative;
+  margin-top: 7px;
+  max-width: 338px;
+  height: 61px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 61px;
+  color: #5e2929;
+  font-family: HelveticaNeue-Medium, Helvetica Neue;
+  font-size: 56px;
+  font-weight: 500;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-top: 30px;
+  height: 33px;
+  line-height: 28px;
+}
+.title-1 {
+  margin-top: 1px;
+  margin-right: 13px;
+  line-height: 26px;
+  color: #0476e0;
+  font-size: 26px;
+  font-weight: 300;
+}
+.num {
+  color: #2060d8;
+  font-family: PingFang SC;
+  font-size: 28px;
+}
+.caption-1 {
+  color: #2060d8;
+  font-family: STHeitiSC-Medium, Heiti SC;
+  font-size: 28px;
+  font-weight: 500;
+}
+.num-1 {
+  color: #2060d8;
+  font-family: PingFang SC;
+  font-size: 28px;
+}

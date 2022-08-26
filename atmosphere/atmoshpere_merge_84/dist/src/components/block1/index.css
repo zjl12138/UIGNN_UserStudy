@@ -1,0 +1,177 @@
+.mod {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  width: 750px;
+  height: 128px;
+  box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.3);
+  background-color: #ffffff;
+}
+.wrapper {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-top: 7px;
+}
+.group {
+  display: flex;
+  align-items: center;
+  margin-right: 129px;
+  height: 28px;
+}
+.large-icon {
+  margin-top: -3px;
+  margin-right: 8px;
+  width: 67px;
+  height: 11px;
+}
+.sketch {
+  margin-right: 10px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #030303;
+  font-size: 24px;
+}
+.icon {
+  margin-top: -2px;
+  width: 26px;
+  height: 18px;
+}
+.tag {
+  margin-right: 202px;
+  line-height: 24px;
+  white-space: pre;
+  color: #030303;
+  font-size: 24px;
+}
+.group-1 {
+  display: flex;
+  align-items: center;
+  height: 28px;
+}
+.percent {
+  margin-right: 6px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #030303;
+  font-size: 24px;
+}
+.icon-1 {
+  margin-top: -1px;
+  width: 49px;
+  height: 19px;
+}
+.wrapper-1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-top: 27px;
+}
+.icon-2 {
+  margin-right: 166px;
+  width: 48px;
+  height: 48px;
+}
+.group-2 {
+  display: flex;
+  align-items: center;
+  margin-right: 164px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: #09afff;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.label {
+  margin-right: 18px;
+  margin-left: 17px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #09afff;
+  font-size: 24px;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: 132px;
+  height: 48px;
+}
+.logo {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 132px;
+  height: 48px;
+}
+.detail {
+  position: relative;
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #ffffff;
+  font-size: 24px;
+}
+.icon-3 {
+  width: 48px;
+  height: 48px;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  width: 750px;
+  height: 240px;
+}
+.layer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 750px;
+  height: 240px;
+  overflow: hidden;
+}
+.wrapper-2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 76px;
+  margin-right: 115px;
+  white-space: nowrap;
+}
+.title {
+  position: relative;
+  max-width: 311px;
+  height: 59px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 59px;
+  color: #ffffff;
+  font-size: 42px;
+  font-weight: 600;
+}
+.desc {
+  position: relative;
+  margin-top: 6px;
+  line-height: 33px;
+  color: #ffffff;
+  font-size: 24px;
+}
+.item {
+  position: relative;
+  margin-top: 18px;
+  width: 180px;
+  height: 204px;
+}

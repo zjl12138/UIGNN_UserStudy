@@ -1,0 +1,471 @@
+.mod {
+  display: flex;
+  align-items: center;
+  background-color: #f9f9f9;
+  height: 163px;
+  overflow: hidden;
+}
+.group {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: -1px;
+  width: 750px;
+}
+.floor-bg {
+  position: absolute;
+  top: 0px;
+  align-self: center;
+  width: 750px;
+  height: 102px;
+}
+.badge-wrapper {
+  display: flex;
+  position: absolute;
+  top: 17px;
+  left: 262px;
+  align-items: center;
+  width: 45px;
+  height: 20px;
+}
+.badge {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 20px;
+}
+.dot {
+  position: absolute;
+  top: 10px;
+  left: 13px;
+  width: 5px;
+  height: 6px;
+}
+.dot-1 {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  width: 4px;
+  height: 6px;
+}
+.group-1 {
+  display: flex;
+  position: absolute;
+  top: 23px;
+  right: 267px;
+  align-items: center;
+  width: 37px;
+  height: 19px;
+}
+.icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 19px;
+}
+.dot-2 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 5px;
+  height: 5px;
+}
+.dot-3 {
+  position: absolute;
+  top: 9px;
+  right: 10px;
+  width: 4px;
+  height: 5px;
+}
+.header {
+  position: relative;
+  width: 750px;
+  height: 0px;
+}
+.body {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1px;
+  height: 101px;
+}
+.empty {
+  position: relative;
+  margin-top: -1px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cccccc;
+  width: 750px;
+  height: 1px;
+}
+.block {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  margin-top: 12px;
+}
+.container-item-0 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 137px;
+  width: 45px;
+}
+.icon-1 {
+  position: absolute;
+  top: 3px;
+  align-self: center;
+  width: 35px;
+  height: 25px;
+}
+.wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.label {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 23px;
+  overflow: hidden;
+}
+.tag-wrapper {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: center;
+  width: 45px;
+  height: 23px;
+}
+.tag {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 23px;
+}
+.dot-4 {
+  position: relative;
+  margin-right: 8px;
+  width: 4px;
+  height: 6px;
+}
+.dot-5 {
+  position: relative;
+  width: 4px;
+  height: 6px;
+}
+.wrapper-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: -1px;
+}
+.thumbnail {
+  position: relative;
+  width: 37px;
+  height: 25px;
+}
+.dot-6 {
+  position: absolute;
+  top: 3px;
+  right: 13px;
+  width: 10px;
+  height: 6px;
+}
+.tag-1 {
+  position: relative;
+  margin-top: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #999999;
+  font-size: 20px;
+}
+.container-item-1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 136px;
+}
+.wrapper-2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.group-2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  width: 48px;
+}
+.badge-wrapper-1 {
+  display: flex;
+  position: absolute;
+  top: 2px;
+  right: 1px;
+  align-items: center;
+  width: 45px;
+  height: 20px;
+}
+.badge-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 20px;
+}
+.dot-7 {
+  position: absolute;
+  top: 10px;
+  left: 13px;
+  width: 5px;
+  height: 6px;
+}
+.dot-8 {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  width: 4px;
+  height: 6px;
+}
+.label-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 26px;
+}
+.dot-9 {
+  position: relative;
+  margin-top: 20px;
+  width: 10px;
+  height: 6px;
+}
+.tag-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 26px;
+  overflow: hidden;
+}
+.icon-2 {
+  position: relative;
+  width: 34px;
+  height: 19px;
+}
+.label-2 {
+  position: relative;
+  margin-top: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #00b4a4;
+  font-size: 20px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 143px;
+}
+.wrapper-3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.thumbnail-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 8px;
+  overflow: hidden;
+}
+.media {
+  position: relative;
+  width: 21px;
+  height: 8px;
+}
+.wrapper-4 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 2px;
+}
+.group-3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  width: 40px;
+  height: 37px;
+}
+.view {
+  display: flex;
+  position: relative;
+  align-items: center;
+  width: 37px;
+  height: 19px;
+}
+.icon-3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 19px;
+}
+.dot-10 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 5px;
+  height: 5px;
+}
+.dot-11 {
+  position: absolute;
+  top: 9px;
+  right: 10px;
+  width: 4px;
+  height: 5px;
+}
+.icon-4 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 37px;
+}
+.play {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 10px;
+  height: 6px;
+}
+.media-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 37px;
+  overflow: hidden;
+}
+.location {
+  position: relative;
+  margin-top: 7px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #999999;
+  font-size: 20px;
+}
+.container-item-2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.wrapper-5 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.figure {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 33px;
+  height: 17px;
+  overflow: hidden;
+}
+.thumbnail-2 {
+  position: relative;
+  width: 33px;
+  height: 17px;
+}
+.wrapper-6 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: -2px;
+}
+.icon-5 {
+  position: absolute;
+  right: 1px;
+  bottom: 0px;
+  width: 27px;
+  height: 15px;
+}
+.icon-6 {
+  position: relative;
+  margin-top: 2px;
+  margin-right: -2px;
+  width: 14px;
+  height: 28px;
+}
+.dot-12 {
+  position: relative;
+  margin-right: -1px;
+  width: 5px;
+  height: 6px;
+}
+.dot-13 {
+  position: relative;
+  margin-top: 6px;
+  width: 10px;
+  height: 6px;
+}
+.group-4 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 2px;
+}
+.figure-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 28px;
+  overflow: hidden;
+}
+.view-1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.dot-14 {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  width: 4px;
+  height: 6px;
+}
+.media-2 {
+  position: relative;
+  width: 14px;
+  height: 28px;
+}
+.word {
+  position: relative;
+  margin-top: 8px;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #999999;
+  font-size: 20px;
+}
